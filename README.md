@@ -19,16 +19,18 @@
     ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=flat-square&logo=prolog&logoColor=white)
     ![MATLAB](https://img.shields.io/badge/MATLAB-ED1B24?style=flat-square&logo=mathworks&logoColor=white)
 
-* **Frameworks and Technologies:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+* **Frameworks and Auth:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
     ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
     ![Quarkus](https://img.shields.io/badge/Quarkus-4644BD?style=flat-square&logo=quarkus&logoColor=white)
+    ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=flat-square&logo=keycloak&logoColor=white)
 
 * **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 * **DevOps & Cloud:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### 📫 Connect with me
 
