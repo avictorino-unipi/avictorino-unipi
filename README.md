@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Andrei Mickel
+# Hi there👋, I'm Andrei Mickel
 
 ---
 
